@@ -149,6 +149,7 @@ PriceChange24h = AVERAGE(FactCryptoMarkets[price_change_percentage_24h])
 * **Line Chart**: BTC/ETH price trend
 * **Bar Chart**: Top 10 Coins by Market Cap
 * **Table**: Full Coin Snapshot
+<img width="862" height="482" alt="image" src="https://github.com/user-attachments/assets/d992ecc9-5074-4618-a1a3-745738c40bde" />
 
 ---
 
@@ -177,5 +178,3 @@ PriceChange24h = AVERAGE(FactCryptoMarkets[price_change_percentage_24h])
 ---
 
 Made with ❤️ using Microsoft Fabric & Power BI.
-
-> Reach out at: \[[your@email.com](mailto:your@email.com)] or open an issue.
